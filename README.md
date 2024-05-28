@@ -1,1 +1,3 @@
 The todo application is built with React for the frontend, Node.js for the backend, and MongoDB for the database. React handles the user interface, allowing dynamic interaction with the todo list. Node.js manages the server-side logic, handling requests from the frontend, performing CRUD operations on the MongoDB database, and ensuring data integrity. MongoDB stores the todo data as flexible JSON-like documents, easily accessed and modified by Node.js. Together, these components create a seamless application, enabling users to manage todos efficiently with a responsive and intuitive interface.
+
+![Screenshot (182)](https://github.com/VishnuSankarIP/todo/assets/107547404/43f7d034-6794-4b90-b3ac-9b7023d21a39)
